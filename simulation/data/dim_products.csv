@@ -1,0 +1,16 @@
+product_id,product_name,category,wholesale_cost,retail_price,storage_costs_per_day,product_class
+P001,Bluetooth Headphones,Electronics,18,39.99,0.0015,A
+P002,Metal Water Bottle,Health,3.5,9.99,0.0015,A
+P003,USB Desk Lamp,Home,9,24.99,0.003,A
+P004,Resistance Bands,Health,4.25,14.99,0.0015,A
+P005,Mini Speaker,Electronics,12.5,29.99,0.006,A
+P006,USB-C Charger,Electronics,5,15.99,0.0015,B
+P007,Yoga Mat,Health,7.5,19.99,0.003,B
+P008,Smart Plug,Electronics,6.75,16.99,0.003,B
+P009,Bluelight Glasses,Health,3,11.99,0.0015,B
+P010,Electric Milk Frother,Home,10,25.99,0.006,B
+P011,Phone Tripod,Electronics,4.8,13.99,0.003,C
+P012,Air Humidifier,Home,8,21.99,0.006,C
+P013,Kitchen Scale,Home,6.5,17.99,0.003,C
+P014,Bluetooth Mouse,Electronics,6,14.99,0.0015,C
+P015,Sleep Mask,Home,9.5,22.99,0.0015,C
