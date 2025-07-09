@@ -1,0 +1,10 @@
+cost_item,cost_value
+cost_per_error,5
+cost_per_worker,120
+cost_per_van,75
+cost_per_big_truck,200
+cost_per_small_truck,150
+warehouse_overheads,500
+emissions_van,4.5
+emissions_large_truck,12
+emission_small_truck,8
