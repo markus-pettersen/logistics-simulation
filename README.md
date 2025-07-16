@@ -1,4 +1,4 @@
-# Project Overview (Currently in process)
+# Project Overview (Currently in progess)
 
 This project features a prototype Power BI dashboard tracking warehouse and delivery KPIs using a randomly generated logistics dataset. The public version is available online:
 
