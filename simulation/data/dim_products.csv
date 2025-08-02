@@ -1,16 +1,16 @@
 product_id,product_name,wholesale_cost,retail_price,storage_costs_per_day,product_class
-P001,Bluetooth Headphones,18,40,0.07,A
-P002,4K Streaming Stick,32,60,0.05,A
-P003,Smartwatch Lite,55,85,0.06,A
-P004,Budget Tablet,60,90,0.08,A
-P005,Mini Speaker,40,70,0.06,A
-P006,Wireless Mouse,12,21,0.04,B
+P001,Bluetooth Headphones,28,40,0.07,A
+P002,4K Streaming Stick,36,55,0.05,A
+P003,Smartwatch Lite,50,74,0.06,A
+P004,Budget Tablet,52,75,0.08,A
+P005,Mini Speaker,35,50,0.06,A
+P006,Wireless Mouse,12,24,0.04,B
 P007,Leather Phone Case,8,16,0.03,B
 P008,USB Hub,8,17,0.03,B
-P009,Laptop Sleeve,9,17.5,0.04,B
-P010,Stylus Pen,6,14,0.03,B
-P011,Webcam Privacy Cover,4,12,0.02,C
-P012,Screen Cleaning Cloth Pack,4,10,0.02,C
-P013,Phone Stand,3.5,12,0.03,C
-P014,Sticker Pack,3.5,14,0.01,C
-P015,Pack of 12 Pencils,3,15,0.02,C
+P009,Laptop Sleeve,9,18,0.04,B
+P010,Stylus Pen,7,14,0.03,B
+P011,Webcam Privacy Cover,3,10,0.02,C
+P012,Screen Cleaning Cloth Pack,3,12,0.02,C
+P013,Phone Stand,3.5,11,0.03,C
+P014,Sticker Pack,4,14,0.01,C
+P015,Pack of 12 Pencils,2.5,8,0.02,C
